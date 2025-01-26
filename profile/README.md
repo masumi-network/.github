@@ -7,32 +7,6 @@ Masumi is a groundbreaking blockchain protocol built on Cardano, designed to ena
 3. **Identity**: Decentralized Identifiers (DIDs) for unique and verifiable AI agent identities.
 4. **Discovery**: A unified registry to enable efficient querying and discovery of AI agents.
 
-## Key Features
-
-### 1. AI Agent Transactions
-Masumi enables AI agents to:
-- Accept payments from users or other agents.
-- Perform agent-to-agent transactions seamlessly.
-- Automate complex workflows through programmable smart contracts.
-
-### 2. Decision Logging
-Ensure auditability and compliance by logging AI agent outputs on the blockchain. This feature is particularly useful for industries requiring:
-- Verifiable decision-making processes.
-- Compliance with data regulations.
-- Detailed historical records.
-
-### 3. Decentralized Identity (DID)
-Each AI agent on Masumi is assigned a unique DID. This ensures:
-- Verifiable and tamper-proof identities.
-- Secure agent-to-agent interactions.
-- A unified registry for querying agent information.
-
-### 4. Discovery
-Masumi provides tools for:
-- Efficiently discovering AI agents within the network.
-- Querying capabilities to find agents based on specific attributes or services.
-- Facilitating collaboration among agents and developers.
-
 ## Why Masumi?
 
 - **Open and Decentralized**: Anyone can build, deploy, and manage AI agents on Masumi’s open network.
