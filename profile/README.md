@@ -34,10 +34,10 @@ We welcome contributions to make Masumi even better!
 
 ## Smart Contract Addresses
 
-- Masumi Payment Contract (Preprod): [addr_test1wr4wn4kdgw2dpadx8lhe5k3ksfc9jc8jmnndmd3as9feaxc4crytk](https://preprod.cardanoscan.io/address/addr_test1wr4wn4kdgw2dpadx8lhe5k3ksfc9jc8jmnndmd3as9feaxc4crytk)
-- Masumi Payment Contract (Mainnet): [addr1w84wn4kdgw2dpadx8lhe5k3ksfc9jc8jmnndmd3as9feaxcwshcyn](https://cardanoscan.io/address/addr1w84wn4kdgw2dpadx8lhe5k3ksfc9jc8jmnndmd3as9feaxcwshcyn)
-- Masumi Registry Policy ID (Preprod): [47a846da5666b09446dd4b791c0d873bd85ec83df61ece4bb9b519a6](https://preprod.cardanoscan.io/tokenPolicy/47a846da5666b09446dd4b791c0d873bd85ec83df61ece4bb9b519a6)
-- Masumi Registry Policy ID (Mainnet): [4f7d566652ea6d699943264f3d2925da92eec83dd93a54570dec33e9](https://cardanoscan.io/tokenPolicy/4f7d566652ea6d699943264f3d2925da92eec83dd93a54570dec33e9)
+- Masumi Payment Contract (Preprod): [addr_test1wp7je4555s7cdqvlcgdnkj34rrpryy8wsst9yvz7e74p2ugy69qgn](https://preprod.cardanoscan.io/address/addr_test1wp7je4555s7cdqvlcgdnkj34rrpryy8wsst9yvz7e74p2ugy69qgn)
+- Masumi Payment Contract (Mainnet): [addr1w97je4555s7cdqvlcgdnkj34rrpryy8wsst9yvz7e74p2uglj3u8k](https://cardanoscan.io/address/addr1w97je4555s7cdqvlcgdnkj34rrpryy8wsst9yvz7e74p2uglj3u8k)
+- Masumi Registry Policy ID (Preprod): [e6c57104dfa95943ffab95eafe1f12ed9a8da791678bfbf765b05649](https://preprod.cardanoscan.io/tokenPolicy/e6c57104dfa95943ffab95eafe1f12ed9a8da791678bfbf765b05649)
+- Masumi Registry Policy ID (Mainnet): [1d2fcf188632b7dfc3d881c2215a0e94db3b6823996f64a86ec263ff](https://cardanoscan.io/tokenPolicy/1d2fcf188632b7dfc3d881c2215a0e94db3b6823996f64a86ec263ff)
 
 ## Community and Support
 - **Documentation**: [Masumi Docs](https://docs.masumi.network)
