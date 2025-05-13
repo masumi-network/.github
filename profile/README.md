@@ -22,8 +22,9 @@ Masumi is a groundbreaking blockchain protocol built on Cardano, designed to ena
 |  | [***masumi-quickstart***](https://github.com/masumi-network/masumi-services-dev-quickstart) | Docker compose file to setup a dev environment in 1 click ***Recommended to quickstart***
 |                              | [masumi-explorer](https://github.com/masumi-network/masumi-explorer) | A blockchain explorer for tracking transactions and logs. |
 | **Masumi Examples & Tutorials** | [crewai-selling-tutorial](https://github.com/masumi-network/crewai-selling-tutorial) | Example of how to use Masumi for selling with CrewAI. |
-|                              | [crewai-coding-mentor-agent](https://github.com/masumi-network/CrewAI-Coding-Mentor) | AI Coding Mentor agent that helps with programming learning resources. |
+|                              | [crewai-coding-mentor-agent](https://github.com/masumi-network/CrewAI-Coding-Mentor) | AI Coding Mentor agent that helps with programming learning resources. | 
 |                              | [crewai-seo-agent](https://github.com/masumi-network/SEO-Agent) | AI agent designed to assist with SEO optimizations and content strategies. |
+|  | [mcp-server](https://github.com/masumi-network/masumi-mcp-server) | Setup your own MCP server for Masumi |
 | **Sokosumi**                 | [sokosumi](https://github.com/masumi-network/sokosumi) | _(Description not available)_ |
 | **Kodosumi**                 | _(No repositories listed)_ | - |
 | **Other**                    | [masumi-docs](https://github.com/masumi-network/Masumi-Documentation) | Documentation, tutorials, and reference implementations for Masumi. |
