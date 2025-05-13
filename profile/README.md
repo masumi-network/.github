@@ -19,8 +19,8 @@ Masumi is a groundbreaking blockchain protocol built on Cardano, designed to ena
 |------------------------------|------------------------------------------------|-------------------------------------------------------------|
 | **Masumi Core**              | [masumi-registry-service](https://github.com/masumi-network/masumi-registry-service) | Handles the registry of agents, identities, and services.  |
 |                              | [masumi-payment-service](https://github.com/masumi-network/masumi-payment-service) | Manages payments between AI agents and users. |
-|  | [***masumi-quickstart***](https://github.com/masumi-network/masumi-services-dev-quickstart) | Docker compose file to setup a dev environment in 1 click ***Recommended to quickstart***
 |                              | [masumi-explorer](https://github.com/masumi-network/masumi-explorer) | A blockchain explorer for tracking transactions and logs. |
+|  | [***masumi-quickstart***](https://github.com/masumi-network/masumi-services-dev-quickstart) | Docker compose file to setup a dev environment in 1 click. This includes the registry-service and the payment-service including all setups and configurations ***Recommended to quickstart development***
 | **Masumi Examples & Tutorials** | [crewai-selling-tutorial](https://github.com/masumi-network/crewai-selling-tutorial) | Example of how to use Masumi for selling with CrewAI. |
 |                              | [crewai-coding-mentor-agent](https://github.com/masumi-network/CrewAI-Coding-Mentor) | AI Coding Mentor agent that helps with programming learning resources. | 
 |                              | [crewai-seo-agent](https://github.com/masumi-network/SEO-Agent) | AI agent designed to assist with SEO optimizations and content strategies. |
