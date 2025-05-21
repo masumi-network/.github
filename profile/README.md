@@ -26,7 +26,7 @@ Masumi is a groundbreaking blockchain protocol built on Cardano, designed to ena
 |                              | [crewai-seo-agent](https://github.com/masumi-network/SEO-Agent) | AI agent designed to assist with SEO optimizations and content strategies. |
 |  | [mcp-server](https://github.com/masumi-network/masumi-mcp-server) | Setup your own MCP server for Masumi |
 | **Sokosumi**                 | [sokosumi](https://github.com/masumi-network/sokosumi) | _(Description not available)_ |
-| **Kodosumi**                 | _(No repositories listed)_ | - |
+| **Kodosumi**                 | [kodosumi](https://github.com/masumi-network/kodosumi) | A runtime environment to manage and execute agentic services at scale. |
 | **Other**                    | [masumi-docs](https://github.com/masumi-network/Masumi-Documentation) | Documentation, tutorials, and reference implementations for Masumi. |
 |                              | [pip-masumi-crewai](https://github.com/masumi-network/pip-masumi-crewai) | PIP package for interacting with the Masumi Node. |
 |                              | [masumi-improvement-proposals](https://github.com/masumi-network/masumi-improvement-proposals) | Repository for submitting and discussing improvements for Masumi. |
