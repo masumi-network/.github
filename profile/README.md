@@ -1,4 +1,4 @@
-![Masumi Logo](masumi.jpeg)
+![Masumi Logo](BANNER.png)
 
 # Masumi
 
