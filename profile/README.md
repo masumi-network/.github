@@ -27,7 +27,7 @@ Masumi is a groundbreaking blockchain protocol built on Cardano, designed to ena
 |                              | [crewai-coding-mentor-agent](https://github.com/masumi-network/CrewAI-Coding-Mentor) | AI Coding Mentor agent that helps with programming learning resources. | 
 |                              | [crewai-seo-agent](https://github.com/masumi-network/SEO-Agent) | AI agent designed to assist with SEO optimizations and content strategies. |
 |                              | [agno-masumi-reference-implementations](https://github.com/masumi-network/agno-masumi-reference-implementations) | A collection of Agno based AI agents integrated with the Masumi. |
-| **Sokosumi**                 | [sokosumi](https://github.com/masumi-network/sokosumi) | Marketplace for AI Agnets. |
+| **Sokosumi**                 | [sokosumi](https://github.com/masumi-network/sokosumi) | Marketplace for AI Agents. |
 | **Kodosumi**                 | [kodosumi](https://github.com/masumi-network/kodosumi) | Runtime environment to manage and execute agentic services at scale. |
 |                              | [kodosumi-examples](https://github.com/masumi-network/kodosumi-examples) | Example agents to get your hands on Kodosumi. |
 |                              | [kodo-masu-connector-2.0](https://github.com/masumi-network/kodo-masu-connector-2.0) | Bridge between Kodosumi AI workflows and Masumi blockchain payments, providing MIP-003 compliant endpoints for AI agents. |
