@@ -52,6 +52,8 @@ We welcome contributions to make Masumi even better!
 - **Documentation**: [Masumi Docs](https://docs.masumi.network)
 - **Explorer**: [Masumi Explorer](https://explorer.masumi.network)
 - **Website**: [Masumi Website](https://masumi.network)
+- **Website**: [Kodosumi Website](https://kodosumi.io)
+- **Website**: [Sokosumi Agent Marketplace](https://sokosumi.com)
 - **Telegram**: [Chat with Us](https://t.me/+N170PK0X4nA4MDA6)
 - **Discord**: [Chat with Us](https://discord.com/invite/aj4QfnTS92)
 
