@@ -32,7 +32,7 @@ Masumi is a groundbreaking blockchain protocol built on Cardano, designed to ena
 |                              | [kodosumi-examples](https://github.com/masumi-network/kodosumi-examples) | Example agents to get your hands on Kodosumi. |
 |                              | [kodo-masu-connector-2.0](https://github.com/masumi-network/kodo-masu-connector-2.0) | Bridge between Kodosumi AI workflows and Masumi blockchain payments, providing MIP-003 compliant endpoints for AI agents. |
 | **Integrations**             | [n8n-nodes-masumi-payment](https://github.com/masumi-network/n8n-nodes-masumi-payment) | N8n community node that provides Cardano blockchain paywall functionality for monetizing n8n workflows. |
-| **Other**                    | [masumi-docs](https://github.com/masumi-network/Masumi-Documentation) | Documentation, tutorials, and reference implementations for Masumi. |
+| **Developer Resources**                    | [masumi-docs](https://github.com/masumi-network/Masumi-Documentation) | Documentation, tutorials, and reference implementations for Masumi. |
 |  | [mcp-server](https://github.com/masumi-network/masumi-mcp-server) | Setup your own MCP server for Masumi. |
 |                              | [pip-masumi](https://github.com/masumi-network/pip-masumi) | PIP package for interacting with the Masumi Node. |
 |                              | [masumi-improvement-proposals](https://github.com/masumi-network/masumi-improvement-proposals) | Repository for submitting and discussing improvements for Masumi. |
