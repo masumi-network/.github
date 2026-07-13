@@ -49,7 +49,7 @@ We welcome contributions to make Masumi even better!
 - Masumi Registry Policy ID (Mainnet): [ad6424e3ce9e47bbd8364984bd731b41de591f1d11f6d7d43d0da9b9](https://cardanoscan.io/tokenPolicy/ad6424e3ce9e47bbd8364984bd731b41de591f1d11f6d7d43d0da9b9)
 
 ## Community and Support
-- **Documentation**: [Masumi Docs](https://docs.masumi.network)
+- **Documentation**: [Masumi Docs](https://www.masumi.network/dev/masumi)
 - **Explorer**: [Masumi Explorer](https://explorer.masumi.network)
 - **Website**: [Masumi Website](https://masumi.network)
 - **Website**: [Kodosumi Website](https://kodosumi.io)
